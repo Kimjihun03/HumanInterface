@@ -1,0 +1,10 @@
+{
+  "name": "activity-explorer-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "맞춤형 교내외활동 탐색 클릭형 프로토타입 (고정 샘플 데이터)",
+  "scripts": {
+    "test": "node --test test/",
+    "build:standalone": "python tools/build_standalone.py"
+  }
+}
